@@ -1,4 +1,4 @@
-# Manu ❤️ Nidhi Wedding Invitation
+# Manu ❤️ Nidhi Wedding Invitation.
 
 Welcome to the official wedding invitation website of Manu and Nidhi! This repository contains the HTML and CSS files for our wedding website, designed to share our joyous occasion with friends and family.
 
